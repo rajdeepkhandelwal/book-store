@@ -1,0 +1,23 @@
+.row.footer{
+	text-align: center;
+	padding: 15px;
+	background-color: #000;
+	margin-top: 10px;
+	
+}
+.row.footer h5{
+	color: #fff;
+}
+.fa {
+  padding: 20px;
+  font-size: 15px;
+  width: 35px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius:10px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}

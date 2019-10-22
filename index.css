@@ -1,0 +1,14 @@
+.review{
+	background-color: #f7fbfc;
+	margin: 20px auto;
+	width: 900px;
+	border:1px solid #f7fbfc;
+	border-radius: 8px;
+	font-size: 22px;
+	padding: 25px;
+}
+.container .commentedBy{
+	float: right;
+	font-size: 20px;
+
+}

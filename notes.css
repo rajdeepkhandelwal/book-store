@@ -1,0 +1,28 @@
+.container.select {
+
+	margin: 20px auto;
+	letter-spacing: 2px;
+	
+	width: 600px;
+	font-size: 20px;
+	
+
+}
+.container.select a{
+	text-decoration: none;
+	line-height: 40px;
+	padding:5px ;
+	display: block;
+	border-bottom: 0.5px solid #ecebeb;
+	background-color: #f6f6f6;
+	padding-left: 15px;
+	border-radius: 8px;
+}
+.container.select span{
+	float:right;
+	padding-top: 8px;
+}
+.container.select a:hover{
+	background-color: #aaa7a7;
+	color: #000;
+}
